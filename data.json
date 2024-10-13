@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Plats"
+        , "img":"images/Plats.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Menu enfants"
+        , "img":"images/Pizza.jpg"
+    },                                          
+    {
+        "id": 3,
+        "title": "Pizza"
+        , "img":"images/Pizza.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Salades"
+        , "img":"images/Salade.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Entrée"
+        , "img":"images/Entree.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Moajanet Charkia"
+        , "img":"images/Moajanet_charkia.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Boissons"
+        , "img":"images/Boissons.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Fatayer"
+        , "img":"images/Fatayer.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Sandwichs"
+        , "img":"images/Sandwichs.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Suppléments"
+        , "img":"images/Supplements.jpg"
+    }
+]

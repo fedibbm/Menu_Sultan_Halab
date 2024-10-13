@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.bg-main{
+    background-image: url("../public/images/abstract-rough-surface-background.jpg");
+    background-size:cover;
+    backdrop-filter: blur(1px);
+}
