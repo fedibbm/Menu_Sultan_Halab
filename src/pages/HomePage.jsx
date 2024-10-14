@@ -10,8 +10,8 @@ const HomePage = () => {
   return (
     <div>
         <Header />
-        <div className='grid grid-cols-2 w-full place-items-center gap-y-4'>
-            {data.map(category=><FoodCategory title={category.title} picSrc={category.img} />)}       
+        <div className='grid grid-cols-2 w-full place-items-center gap-y-4 '>
+            {data.map(category=><FoodCategory title={category.title} picSrc={category.img} path={category.path} items={category.items} />)}       
         </div>
     </div>
   )

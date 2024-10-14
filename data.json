@@ -2,46 +2,302 @@
     {
         "id": 1,
         "title": "Salades",
-        "img": "compressed/Salade.jpg"
+        "path": "Salades",
+        "img": "compressed/Salade.jpg",
+        "items": [
+            {
+                "item_id": 1,
+                "name": "Salade Mixte",
+                "img": "/Menu/salades/Salade_mixte.jpg"
+            },
+            {
+                "item_id": 2,
+                "name": "Salade Chich Taouk",                                                       
+                "img": "/Menu/salades/Salade_chich_taouk.jpg"
+            },
+            {
+                "item_id": 3,
+                "name": "Salade Falafel",
+                "img": "/Menu/salades/Salade_falafel.jpg"
+            },
+            {
+                "item_id": 4,
+                "name": "Salade Fatouch",
+                "img": "/Menu/salades/Salade_fatouch.jpg"
+            },
+            {
+                "item_id": 5,
+                "name": "Salade Taboula",
+                "img": "/Menu/salades/Salade_taboula.jpg"
+            }
+        ]
     },
     {
         "id": 2,
         "title": "Entrées",
-        "img": "compressed/Entree.jpg"
+        "path": "Entrees",
+        "img": "compressed/Entree.jpg",
+        "items": [
+            {
+                "item_id": 1,
+                "name": "Soupe aux lentilles",
+                "img": "/Menu/entrees/Soupe_aux_lentilles.jpg"
+            },
+            {
+                "item_id": 2,
+                "name": "Falafel (6 pièces)",
+                "img": "/Menu/entrees/Falafel.jpg"
+            },
+            {
+                "item_id": 3,
+                "name": "Mixte (8 pièces)",
+                "img": "/Menu/entrees/Mixte.jpg"
+            },
+            {
+                "item_id": 4,
+                "name": "Yaourt au concombre",
+                "img": "/Menu/entrees/Yaourt_concombre.jpg"
+            },
+            {
+                "item_id": 5,
+                "name": "Baba Ghanouj",
+                "img": "/Menu/entrees/Baba_ghanouj.jpg"
+            },
+            {
+                "item_id": 6,
+                "name": "Homos",
+                "img": "/Menu/entrees/Homos.jpg"
+            },
+            {
+                "item_id": 7,
+                "name": "Homos Viande",
+                "img": "/Menu/entrees/Homos_viande.jpg"
+            },
+            {
+                "item_id": 8,
+                "name": "Araies Viande",
+                "img": "/Menu/entrees/Araies_viande.jpg"
+            },
+            {
+                "item_id": 9,
+                "name": "Araies Fromage",
+                "img": "/Menu/entrees/Araies_fromage.jpg"
+            }
+        ]
     },
     {
         "id": 3,
         "title": "Moajanet Charkia",
-        "img": "compressed/Moajanet_charkia.jpg"
+        "path": "Moajanet_Charkia",
+        "img": "compressed/Moajanet_charkia.jpg",
+        "items": [
+            {
+                "item_id": 1,
+                "name": "Safiha Fromage",
+                "img": "/Menu/moajanet/Safiha_fromage.jpg"
+            },
+            {
+                "item_id": 2,
+                "name": "Safiha Viande",
+                "img": "/Menu/moajanet/Safiha_viande.jpg"
+            },
+            {
+                "item_id": 3,
+                "name": "Safiha Viande Fromage",
+                "img": "/Menu/moajanet/Safiha_viande_fromage.jpg"
+            },
+            {
+                "item_id": 4,
+                "name": "Safiha Escalope Fromage",
+                "img": "/Menu/moajanet/Safiha_escalope_fromage.jpg"
+            },
+            {
+                "item_id": 5,
+                "name": "Safiha Sultan Alep",
+                "img": "/Menu/moajanet/Safiha_sultan_alep.jpg"
+            },
+            {
+                "item_id": 6,
+                "name": "Manakich Zaatar",
+                "img": "/Menu/moajanet/Manakich_zaatar.jpg"
+            }
+        ]
     },
     {
         "id": 4,
         "title": "Plats",
-        "img": "compressed/Plats.jpg"
+        "path": "Plats",
+        "img": "compressed/Plats.jpg",
+        "items": [
+            {
+                "item_id": 1,
+                "name": "Sultan Alep",
+                "img": "/Menu/plats/Sultan_alep.jpg"
+            },
+            {
+                "item_id": 2,
+                "name": "Machawi Mchakel",
+                "img": "/Menu/plats/Machawi_mchakel.jpg"
+            },
+            {
+                "item_id": 3,
+                "name": "Poulet Grillé",
+                "img": "/Menu/plats/Poulet_grille.jpg"
+            },
+            {
+                "item_id": 4,
+                "name": "Machawi Famille",
+                "img": "/Menu/plats/Machawi_famille.jpg"
+            },
+            {
+                "item_id": 5,
+                "name": "Majouka Viande",
+                "img": "/Menu/plats/Majouka_viande.jpg"
+            },
+            {
+                "item_id": 6,
+                "name": "Machawi Kabab",
+                "img": "/Menu/plats/Machawi_kabab.jpg"
+            },
+            {
+                "item_id": 7,
+                "name": "Kabab Viande",
+                "img": "/Menu/plats/Kabab_viande.jpg"
+            },
+            {
+                "item_id": 8,
+                "name": "Kabab Poulet",
+                "img": "/Menu/plats/Kabab_poulet.jpg"
+            },
+            {
+                "item_id": 9,
+                "name": "Chawarma",
+                "img": "/Menu/plats/Chawarma.jpg"
+            },
+            {
+                "item_id": 10,
+                "name": "Chich Taouk",
+                "img": "/Menu/plats/Chich_taouk.jpg"
+            },
+            {
+                "item_id": 11,
+                "name": "Crispy Poulet",
+                "img": "/Menu/plats/Crispy_poulet.jpg"
+            }
+        ]
     },
     {
         "id": 6,
         "title": "Pizza",
-        "img": "compressed/Pizza.jpg"
+        "path": "Pizza",
+        "img": "compressed/Pizza.jpg",
+        "items": [
+            {
+                "item_id": 1,
+                "name": "Pizza Margherita",
+                "img": "/Menu/pizza/Pizza_margherita.jpg"
+            },
+            {
+                "item_id": 2,
+                "name": "Pizza Jambon",
+                "img": "/Menu/pizza/Pizza_jambon.jpg"
+            },
+            {
+                "item_id": 3,
+                "name": "Pizza Thon",
+                "img": "/Menu/pizza/Pizza_thon.jpg"
+            },
+            {
+                "item_id": 4,
+                "name": "Pizza Mexicaine",
+                "img": "/Menu/pizza/Pizza_mexicaine.jpg"
+            },
+            {
+                "item_id": 5,
+                "name": "Pizza 4 Fromages",
+                "img": "/Menu/pizza/Pizza_4_fromages.jpg"
+            },
+            {
+                "item_id": 6,
+                "name": "Pizza 4 Saisons",
+                "img": "/Menu/pizza/Pizza_4_saisons.jpg"
+            },
+            {
+                "item_id": 7,
+                "name": "Pizza Sejk",
+                "img": "/Menu/pizza/Pizza_sejk.jpg"
+            },
+            {
+                "item_id": 8,
+                "name": "Makloub (Shawarma Poulet/Escalope)",
+                "img": "/Menu/pizza/Makloub.jpg"
+            }
+        ]
     },
     {
         "id": 7,
         "title": "Fatayer",
-        "img": "compressed/Fatayer.jpg"
+        "path": "Fatayer",
+        "img": "compressed/Fatayer.jpg",
+        "items": [
+            {
+                "item_id": 1,
+                "name": "Toast Fromage",
+                "img": "/Menu/fatayer/Toast_fromage.jpg"
+            },
+            {
+                "item_id": 2,
+                "name": "Toast Viande",
+                "img": "/Menu/fatayer/Toast_viande.jpg"
+            },
+            {
+                "item_id": 3,
+                "name": "Sambousek Viande",
+                "img": "/Menu/fatayer/Sambousek_viande.jpg"
+            },
+            {
+                "item_id": 4,
+                "name": "Samousek Fromage",
+                "img": "/Menu/fatayer/Sambousek_fromage.jpg"
+            },
+            {
+                "item_id": 5,
+                "name": "Kebba",
+                "img": "/Menu/fatayer/Kebba.jpg"
+            },
+            {
+                "item_id": 6,
+                "name": "Falafel",
+                "img": "/Menu/fatayer/Falafel.jpg"
+            }
+        ]
     },
     {
         "id": 8,
         "title": "Sandwichs",
-        "img": "compressed/Sandwichs.jpg"
-    },
-    {
-        "id": 9,
-        "title": "Boissons",
-        "img": "compressed/Boissons.jpg"
-    },
-    {
-        "id": 10,
-        "title": "Suppléments",
-        "img": "compressed/Supplements.jpg"
+        "path": "Sandwichs",
+        "img": "compressed/Sandwichs.jpg",
+        "items": [
+            {
+                "item_id": 1,
+                "name": "Sultan Alep",
+                "img": "/Menu/sandwichs/Sultan_alep.jpg"
+            },
+            {
+                "item_id": 2,
+                "name": "Chawarma XL",
+                "img": "/Menu/sandwichs/Chawarma_XL.jpg"
+            },
+            {
+                "item_id": 3,
+                "name": "Sandwich Chich Taouk",
+                "img": "/Menu/sandwichs/Chich_taouk.jpg"
+            },
+            {
+                "item_id": 4,
+                "name": "Sandwich Escalope",
+                "img": "/Menu/sandwichs/Sandwich_escalope.jpg"
+            }
+        ]
     }
 ]
