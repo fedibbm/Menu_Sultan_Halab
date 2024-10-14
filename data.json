@@ -1,52 +1,47 @@
 [
     {
         "id": 1,
-        "title": "Plats"
-        , "img":"compressed/Plats.jpg"
+        "title": "Salades",
+        "img": "compressed/Salade.jpg"
     },
     {
         "id": 2,
-        "title": "Menu enfants"
-        , "img":"compressed/Pizza.jpg"
-    },                                          
+        "title": "Entrées",
+        "img": "compressed/Entree.jpg"
+    },
     {
         "id": 3,
-        "title": "Pizza"
-        , "img":"compressed/Pizza.jpg"
+        "title": "Moajanet Charkia",
+        "img": "compressed/Moajanet_charkia.jpg"
     },
     {
         "id": 4,
-        "title": "Salades"
-        , "img":"compressed/Salade.jpg"
-    },
-    {
-        "id": 5,
-        "title": "Entrée"
-        , "img":"compressed/Entree.jpg"
+        "title": "Plats",
+        "img": "compressed/Plats.jpg"
     },
     {
         "id": 6,
-        "title": "Moajanet Charkia"
-        , "img":"compressed/Moajanet_charkia.jpg"
+        "title": "Pizza",
+        "img": "compressed/Pizza.jpg"
     },
     {
         "id": 7,
-        "title": "Boissons"
-        , "img":"compressed/Boissons.jpg"
+        "title": "Fatayer",
+        "img": "compressed/Fatayer.jpg"
     },
     {
         "id": 8,
-        "title": "Fatayer"
-        , "img":"compressed/Fatayer.jpg"
+        "title": "Sandwichs",
+        "img": "compressed/Sandwichs.jpg"
     },
     {
         "id": 9,
-        "title": "Sandwichs"
-        , "img":"compressed/Sandwichs.jpg"
+        "title": "Boissons",
+        "img": "compressed/Boissons.jpg"
     },
     {
         "id": 10,
-        "title": "Suppléments"
-        , "img":"compressed/Supplements.jpg"
+        "title": "Suppléments",
+        "img": "compressed/Supplements.jpg"
     }
 ]
