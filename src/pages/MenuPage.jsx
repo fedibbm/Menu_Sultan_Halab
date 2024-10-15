@@ -20,7 +20,7 @@ const MenuPage = () => {
 
     return (
         <div className="flex flex-col gap-4 items-center">
-            <div className="text-xl font-bold">{category.title}</div>
+            <div className="pb-10 w-full "><h1 className="text-3xl text-center font-bold underline font-playwrite p-2 pt-10 bg-opacity-80 text-darkerCaramel bg-lightBeige">{category.title}</h1></div>
 
             {items && items.length > 0 ? (
                 items.map((item, index) => (
