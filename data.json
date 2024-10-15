@@ -8,27 +8,27 @@
             {
                 "item_id": 1,
                 "name": "Salade Mixte",
-                "img": "/Menu/salades/Salade_mixte.jpg"
+                "img": "/Menu/Salades/Salade_mixte.jpg"
             },
             {
                 "item_id": 2,
                 "name": "Salade Chich Taouk",                                                       
-                "img": "/Menu/salades/Salade_chich_taouk.jpg"
+                "img": "/Menu/Salades/Salade_chich_taouk.jpg"
             },
             {
                 "item_id": 3,
                 "name": "Salade Falafel",
-                "img": "/Menu/salades/Salade_falafel.jpg"
+                "img": "/Menu/Salades/Salade_falafel.jpg"
             },
             {
                 "item_id": 4,
                 "name": "Salade Fatouch",
-                "img": "/Menu/salades/Salade_fatouch.jpg"
+                "img": "/Menu/Salades/Salade_fatouch.jpg"
             },
             {
                 "item_id": 5,
                 "name": "Salade Taboula",
-                "img": "/Menu/salades/Salade_taboula.jpg"
+                "img": "/Menu/Salades/Salade_taboula.jpg"
             }
         ]
     },
@@ -41,47 +41,47 @@
             {
                 "item_id": 1,
                 "name": "Soupe aux lentilles",
-                "img": "/Menu/entrees/Soupe_aux_lentilles.jpg"
+                "img": "/Menu/Entrees/Soupe_aux_lentilles.jpg"
             },
             {
                 "item_id": 2,
                 "name": "Falafel (6 pièces)",
-                "img": "/Menu/entrees/Falafel.jpg"
+                "img": "/Menu/Entrees/Falafel_6_pieces.jpg"
             },
             {
                 "item_id": 3,
                 "name": "Mixte (8 pièces)",
-                "img": "/Menu/entrees/Mixte.jpg"
+                "img": "/Menu/Entrees/Mixte_8_pieces.jpeg"
             },
             {
                 "item_id": 4,
                 "name": "Yaourt au concombre",
-                "img": "/Menu/entrees/Yaourt_concombre.jpg"
+                "img": "/Menu/Entrees/Yaourt_au_concombre.jpg"
             },
             {
                 "item_id": 5,
                 "name": "Baba Ghanouj",
-                "img": "/Menu/entrees/Baba_ghanouj.jpg"
+                "img": "/Menu/Entrees/Baba_ghanouj.jpg"
             },
             {
                 "item_id": 6,
                 "name": "Homos",
-                "img": "/Menu/entrees/Homos.jpg"
+                "img": "/Menu/Entrees/Homos.jpg"
             },
             {
                 "item_id": 7,
                 "name": "Homos Viande",
-                "img": "/Menu/entrees/Homos_viande.jpg"
+                "img": "/Menu/Entrees/Homos_viande.jpg"
             },
             {
                 "item_id": 8,
                 "name": "Araies Viande",
-                "img": "/Menu/entrees/Araies_viande.jpg"
+                "img": "/Menu/Entrees/Araies_viande.jpeg"
             },
             {
                 "item_id": 9,
                 "name": "Araies Fromage",
-                "img": "/Menu/entrees/Araies_fromage.jpg"
+                "img": "/Menu/Entrees/Araies_fromage.jpg"
             }
         ]
     },

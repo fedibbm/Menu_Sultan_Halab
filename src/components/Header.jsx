@@ -2,8 +2,8 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div className='w-full rounded-b-[30px] py-8 pt-16 flex justify-center'>
-        <h1 className='text-[2rem] bg-[#feffef] max-w-fit px-3 font-bold underline text-center text-red-900' >Sultan Aalep</h1>
+    <div className='w-full rounded-b-[30px] flex justify-center  (-mt-[7rem]) pb-8'>
+        <img className='h-48 w-[48%]' src="/images/sultan_alep_logo.png" alt="" />
     </div>
   )
 }
