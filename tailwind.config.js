@@ -11,7 +11,8 @@ export default {
         darkerCaramel :"#998162",
         lightBeige : "#feffef",
         Beige:"#dfcba2",
-        categoryCardBg:"#DFCBA2"
+        categoryCardBg:"#DFCBA2",
+        smokyBlack:"#14110F"
       }
     },
   },

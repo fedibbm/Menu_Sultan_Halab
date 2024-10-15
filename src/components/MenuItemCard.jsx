@@ -16,11 +16,11 @@ const MenuItemCard = ({ item }) => {
                 style={{ backgroundImage: `url(${item.img})` }}
             ></div>
             <div className="p-1 pl-3 flex flex-col justify-between">
-                <div className="flex justify-between py-2">
+                <div className="flex justify-between py-2">         
                   <h2 className="text-darkerCaramel text-lg font-bold">
                       {item.name}
                   </h2>
-                  <p className="text-green-900 font-semibold text-lg text-end pr-2">
+                  <p className="text-smokyBlack font-semibold text-lg text-end pr-2">
                     100dt
                 </p>
                 </div>
