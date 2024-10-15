@@ -10,7 +10,7 @@ const MenuItemCard = ({ item }) => {
         //         <p className='text-green-900 font-semibold text-lg text-end pr-2'>100dt</p>
         //     </div>
         // </div>
-        <div className="bg-lightBeige w-full box-content rounded-md flex flex-col p-1 shadow-lg  ">
+        <div className="bg-lightBeige w-[98%] rounded-md flex flex-col p-1 shadow-lg  ">
             <div
                 className="h-32 w-full rounded-md flex-shrink-0 bg-cover bg-center"
                 style={{ backgroundImage: `url(${item.img})` }}
