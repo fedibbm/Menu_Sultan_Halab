@@ -10,7 +10,7 @@ const HomePage = () => {
   return (
     <div>
         <Header />
-        <div className='grid grid-cols-2 w-full place-items-center gap-y-4 '>
+        <div className='grid grid-cols-2 w-full place-items-center gap-y-4 pb-20'>
             {data.map((category, index)=><FoodCategory key={index} title={category.title} picSrc={category.img} path={category.path} items={category.items} />)}       
         </div>
     </div>
