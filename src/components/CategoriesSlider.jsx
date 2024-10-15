@@ -20,7 +20,7 @@ const CategoriesSlider = () => {
         Plats: <GiHotMeal className="text-lg " />,
         Pizza: <IoPizza className="text-lg " />,
         Fatayer: <GiBread className="text-lg " />,
-        Sandwichs: <LuSandwich className="text-lg " />,
+        Sandwichs: <LuSandwich className="text-lg " />,     
     };
     return (
         <div className="overflow-x-scroll w-full whitespace-nowrap p-4 snap-x scroll-smooth">
