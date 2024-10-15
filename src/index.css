@@ -7,14 +7,17 @@
 
 
 
-.bg-main{
+.bg-main {
     background-image: url("../public/images/abstract-rough-surface-background.jpg");
-    background-size:cover;
+    background-size: cover;
     backdrop-filter: blur(1px);
 }
 
 .font-playwrite {
     font-family: "Playwrite GB S", cursive;
+}
 
-  }
-  
+.scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+    /* Hide scrollbar */
+}

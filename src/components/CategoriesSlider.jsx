@@ -23,7 +23,7 @@ const CategoriesSlider = () => {
         Sandwichs: <LuSandwich className="text-lg " />,     
     };
     return (
-        <div className="overflow-x-scroll w-full whitespace-nowrap p-4 snap-x scroll-smooth">
+        <div className="overflow-x-scroll w-full whitespace-nowrap p-4 snap-x scroll-smooth scrollbar-hidden">
             <div className="inline-flex gap-4">
                 <NavLink to="/">
                     <div className="bg-lightBeige rounded-full h-10 px-4  shadow-md flex items-center justify-center gap-2">
