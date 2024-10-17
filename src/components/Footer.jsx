@@ -4,7 +4,7 @@ import { FaPhoneFlip } from "react-icons/fa6";
 
 const Footer = () => {
     return (
-        <div className="flex flex-col justify-center items-center gap-2 pb-10">
+        <div className="flex flex-col justify-center items-start gap-2 pb-6 pt-4 shadow-md pl-4 bg-lightBeige">
             <div className="flex items-center text-darkerCaramel p-2 bg-lightBeige gap-2 w-56  ">
                 <FaFacebookSquare />
                 <a href="https://www.facebook.com/Alep.Sultan/">

@@ -10,14 +10,14 @@ const MenuItemCard = ({ item }) => {
         //         <p className='text-green-900 font-semibold text-lg text-end pr-2'>100dt</p>
         //     </div>
         // </div>
-        <div className="bg-lightBeige w-[98%] flex flex-col p-1 shadow-lg ">
+        <div className="bg-lightBeige w-[95vw] flex flex-col p-1 shadow-lg ">
             <div
                 className="h-32 w-full flex-shrink-0 bg-cover bg-center"
                 style={{ backgroundImage: `url(${item.img})` }}
             ></div>
             <div className="p-1 pl-3 flex flex-col justify-between">
                 <div className="flex justify-between py-2">         
-                  <h2 className="text-darkerCaramel text-lg font-bold">
+                  <h2 className="text-gray-700 text-lg font-bold">
                       {item.name}
                   </h2>
                   <p className="text-smokyBlack font-semibold text-lg text-end pr-2">

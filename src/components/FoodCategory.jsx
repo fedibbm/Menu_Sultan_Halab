@@ -11,7 +11,7 @@ const FoodCategory = ({title, picSrc, path, items}) => {
   return (          
     <div className='flex flex-col cursor-pointer shadow-md rounded-md p-1 bg-lightBeige' onClick={handleClick}>
         <img className="h-28 w-[43vw] md:w-[181.25px] rounded-md border border-gray-500" src={picSrc} />
-        <p className='text-center text-lg font-semibold p-2 text-[#6b0b0c]'>{title}</p>
+        <p className='text-center text-lg font-semibold p-2 text-gray-700'>{title}</p>
     </div>
   ) 
 }
